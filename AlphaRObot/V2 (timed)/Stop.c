@@ -1,0 +1,16 @@
+vexRT[Ch1]=0;
+vexRT[Ch2]=0;
+vexRT[Ch3]=0;
+vexRT[Ch4]=0;
+vexRT[Btn5U]=0;
+vexRT[Btn5D]=0;
+vexRT[Btn6U]=0;
+vexRT[Btn6D]=0;
+vexRT[Btn7L]=0;
+vexRT[Btn7R]=0;
+vexRT[Btn7U]=0;
+vexRT[Btn7D]=0;
+vexRT[Btn8L]=0;
+vexRT[Btn8R]=0;
+vexRT[Btn8U]=0;
+vexRT[Btn8D]=0;
